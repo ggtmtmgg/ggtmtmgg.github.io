@@ -5,20 +5,18 @@
 layout: home
 ---
 
-# ggtmtmgg
-
 基本情報
 ===
 
 - 氏名: 前田 翼 / 細谷 真 / 大ダメージ
 - 生年月日: 1994/2/26
 - 住所: 東京都本郷, 大阪府豊中
-- VALU: https://valu.is/awjecc
-- Note: https://note.mu/ggtmtmgg
-- GitHub: https://github.com/ggtmtmgg
-- Twitter: https://twitter.com/ggtmtmgg
-- Qiita: https://qiita.com/ggtmtmgg
-- Speaker Deck: https://speakerdeck.com/ggtmtmgg
+- VALU: [https://valu.is/awjecc](https://valu.is/awjecc)
+- Note: [https://note.mu/ggtmtmgg](https://note.mu/ggtmtmgg)
+- GitHub: [https://github.com/ggtmtmgg](https://github.com/ggtmtmgg)
+- Twitter: [https://twitter.com/ggtmtmgg](https://twitter.com/ggtmtmgg)
+- Qiita: [https://qiita.com/ggtmtmgg](https://qiita.com/ggtmtmgg)
+- Speaker Deck: [https://speakerdeck.com/ggtmtmgg](https://speakerdeck.com/ggtmtmgg)
 
 5段階スキル
 ===
