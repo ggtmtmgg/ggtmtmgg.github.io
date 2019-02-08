@@ -5,12 +5,17 @@
 layout: home
 ---
 
-基本情報
+プロフィール
 ===
 
-- 氏名: 前田 翼 / 細谷 真 / 大ダメージ
-- 生年月日: 1994/2/26
-- 住所: 東京都本郷, 大阪府豊中
+氏名
+===
+- 翼: オフラインでよく使う名前
+- 細谷 真: エンジニア時のペンネーム
+- 大ダメージ: オンラインでのペンネーム
+
+リンク
+===
 - Twitter: [https://twitter.com/ggtmtmgg](https://twitter.com/ggtmtmgg)
 - VALU: [https://valu.is/awjecc](https://valu.is/awjecc)
 - ブログ: [https://note.mu/ggtmtmgg](https://note.mu/ggtmtmgg)
