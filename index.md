@@ -5,52 +5,48 @@
 layout: home
 ---
 
-基本情報
+プロフィール
 ===
 
-- 氏名: 前田 翼 / 細谷 真 / 大ダメージ
-- 生年月日: 1994/2/26
-- 住所: 東京都本郷, 大阪府豊中
-- VALU: [https://valu.is/awjecc](https://valu.is/awjecc)
-- Note: [https://note.mu/ggtmtmgg](https://note.mu/ggtmtmgg)
-- GitHub: [https://github.com/ggtmtmgg](https://github.com/ggtmtmgg)
+氏名
+===
+- 翼: オフラインでよく使う名前
+- 細谷 真: エンジニア時のペンネーム
+- 大ダメージ: オンラインでのペンネーム
+
+リンク
+===
 - Twitter: [https://twitter.com/ggtmtmgg](https://twitter.com/ggtmtmgg)
-- Qiita: [https://qiita.com/ggtmtmgg](https://qiita.com/ggtmtmgg)
-- Speaker Deck: [https://speakerdeck.com/ggtmtmgg](https://speakerdeck.com/ggtmtmgg)
+- VALU: [https://valu.is/awjecc](https://valu.is/awjecc)
+- ブログ: [https://note.mu/ggtmtmgg](https://note.mu/ggtmtmgg)
+- プレゼン: [https://speakerdeck.com/ggtmtmgg](https://speakerdeck.com/ggtmtmgg)
 
 5段階スキル
 ===
 
-## コーチング
-レベル: 5
+## コーチング ★★★★★
 かつて無いほどまでにモチベーションを高めさせ、私がいなければ出してなかったであろう成果を出させれる。
 
-## JavaScript
-レベル: 1
+## JavaScript ★☆☆☆☆
 ES5以降の文法は、最新のものでなければギリギリ扱える。
 webpackのconfigファイルの半分程度理解できる。
 
-## React Native
-レベル: 1
-基本的なアプリ開発ができる。超初心者向けの勉強会を開ける。
+## React Native ★☆☆☆☆
+基本的なアプリ開発ができる。初心者向けの勉強会を開ける。
 
-## Ruby on Rails
-レベル: 1
+## Ruby on Rails ★☆☆☆☆
 Webサイトを作れる。
 
-## Web全般
-レベル: 1
+## Web全般 ★☆☆☆☆
 基本的なWebサービスの設計・技術選定・インフラ構築・開発を一人でギリギリ出来る。
 
-## RDBMS
-レベル: 1
+## RDBMS ★☆☆☆☆
 Webメディア程度のDB設計を完全に理解した。
 
-## Git/GitHub
-レベル: 1
-未だに苦しんでいる。
+## Git/GitHub ★☆☆☆☆
+コンフリクトが起きるとそわそわします。
 
-## 資格
+## 資格 ★☆☆☆☆
 応用情報処理技術者: 資格は持ってるけどなにもおぼえてない。
 
 職務経歴
