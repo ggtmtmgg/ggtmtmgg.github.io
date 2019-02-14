@@ -8,8 +8,9 @@ layout: default
 About
 ===
 
-※ 最新に保ち続けるためにプレーンテキストで管理しています。
-
+|----|----|
+| 更新 | 2019-02-14 |
+| バージョン | 0.1.0 |
 
 氏名
 ===
@@ -32,6 +33,7 @@ About
 
 - ド: CEO
 - FACTBASE: CTO
+![factbase](/assets/images/factbase.jpg){:class="img-responsive"}
 - Ezmom: エンジニア
 
 ## 短期インターン
@@ -55,8 +57,10 @@ About
 ===
 
 - 実践Expoの執筆 - [Amazon.co.jp](https://amzn.to/2L7gDXF)
+![expo](/assets/images/expo.png){:class="img-responsive"}
 - React Native Japanの登壇 [React NativeのレイアウトエンジンYOGAの仕組み - 追体験編](https://speakerdeck.com/ggtmtmgg/react-nativefalsereiautoenzinyogafalseshi-zu-mi-zhui-ti-yan-bian)
 - CTOオブ・ザ・イヤー2018の登壇 [組織の外側にHRアーキテクチャを築く](https://speakerdeck.com/ggtmtmgg/zu-zhi-falsewai-ce-nihrakitekutiyawozhu-ku-ctoobuzaiya2018)
+![cto](/assets/images/cto.jpg){:class="img-responsive"}
 - React Native OSSの発表 [React Native OSS 初月のささいな成果](https://speakerdeck.com/ggtmtmgg/react-native-oss-chu-yue-falsesasainacheng-guo)
 - JS Ninjaの発表 [JS Ninja Meetup #1](https://speakerdeck.com/ggtmtmgg/js-ninja-meetup-number-1)
 - vuejs/vue PR - [fix #8961 resolve camelCased local directives #9129](https://github.com/vuejs/vue/pull/9129)
