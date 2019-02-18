@@ -9,8 +9,10 @@ About
 ===
 
 |----|----|
-| 更新 | 2019-02-15 |
-| バージョン | 0.1.2 |
+| 更新 | 2019-02-18 |
+| バージョン | 0.1.4 |
+| 一言 | イケてる人のプロフィールページは逆に質素になるという傾向があるんですよ。(適当) |
+
 
 ## 氏名
 
@@ -35,33 +37,35 @@ CyberAgent: アプリ開発インターン
 
 ## スキル
 
-### ソフトウェア ★☆☆☆☆
-スマホアプリ/Webアプリ開発がちょっとできる。
-応用情報処理技術者の資格は持っている。ただし何もおぼえていない。
-
-### 経営 ★☆☆☆☆
-おままごとレベルでこなしております。圧倒的勉強・経験不足。
-
-### プロダクトマネジメント ★☆☆☆☆
-何度やっても大きすぎるMVPを作ってしまう。
-
-### コーチング ★★★★★
-異常なまでにモチベーションを高めさせ、
-私がいなければ出してなかったであろう成果を出させれる。
-
-----------------------------
+| ---- | ---- | ---- |
+| ソフトウェア | ★☆☆☆☆ | スマホアプリ/Webアプリ開発がちょっとできる。 |
+| 経営 | ★☆☆☆☆ | 「会社は学校じゃねぇんだよ」とか言われそうなレベルです。すみませんでした。 |
+| プロダクトマネジメント | ★☆☆☆☆ | 常に大きすぎるMVPを作ってしまって反省してます。 |
+| コーチング | ★★★★★ | 1時間のセッションで異常なまでにモチベーションを高めさせ、人生最高レベルの洗練された成果を出させることが出来る。 |
 
 ## 解除した実績
 
-### 実践Expoの執筆
-![expo](/assets/images/expo.png){:class="img-responsive"}  
-参考リンク- [Amazon.co.jp](https://amzn.to/2L7gDXF)
-### CTOオブ・ザ・イヤー2018の参加
-![cto](/assets/images/cto.jpg){:class="img-responsive"}  
-参考リンク- [組織の外側にHRアーキテクチャを築く](https://speakerdeck.com/ggtmtmgg/zu-zhi-falsewai-ce-nihrakitekutiyawozhu-ku-ctoobuzaiya2018)
-### React Native Japan Meetupの登壇
-![rnmeetup](/assets/images/rnmeetup.png){:class="img-responsive"}  
-参考リンク- [React NativeのレイアウトエンジンYOGAの仕組み - 追体験編](https://speakerdeck.com/ggtmtmgg/react-nativefalsereiautoenzinyogafalseshi-zu-mi-zhui-ti-yan-bian)
-### OSSペアプロコミュニティの発足と運営
+### 1. OSSペアプロコミュニティの発足と運営
 ![RNOSS](/assets/images/rnoss.png){:class="img-responsive"}  
 参考リンク- [React Native OSS 初月のささいな成果](https://speakerdeck.com/ggtmtmgg/react-native-oss-chu-yue-falsesasainacheng-guo)
+
+-----------------
+
+### 2. CTOオブ・ザ・イヤー2018の登壇
+![cto](/assets/images/cto.jpg){:class="img-responsive"}  
+参考リンク- [組織の外側にHRアーキテクチャを築く](https://speakerdeck.com/ggtmtmgg/zu-zhi-falsewai-ce-nihrakitekutiyawozhu-ku-ctoobuzaiya2018)
+
+-----------------
+
+### 3. 実践Expoの執筆
+![expo](/assets/images/expo.png){:class="img-responsive"}  
+参考リンク- [Amazon.co.jp](https://amzn.to/2L7gDXF)
+
+-----------------
+
+### 4. 1ヶ月間のエクステによるロン毛化
+![long hair](/assets/images/long_hair.png){:class="img-responsive"}  
+参考リンク- [ロン毛の学び(Twitter)](https://twitter.com/ggtmtmgg/status/1091995348229222400)
+
+-----------------
+
