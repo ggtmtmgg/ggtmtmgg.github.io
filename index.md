@@ -28,12 +28,12 @@ VALU: [https://valu.is/awjecc](https://valu.is/awjecc)
 
 ## 略歴
 
-ド: CEO  
-FACTBASE: CTO  
-Gunosy: 機械学習インターン  
-Ezmom: エンジニア  
-Recruit ホールディングス: アプリ開発インターン  
-CyberAgent: アプリ開発インターン  
+2015年 CyberAgent アプリ開発インターン  
+2015年 Recruit ホールディングス アプリ開発インターン  
+2016年 Ezmom エンジニア  
+2017年 Gunosy 機械学習インターン  
+2018年 FACTBASE CTO  
+2019年 ド CEO  
 
 ## スキル
 
