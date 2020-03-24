@@ -17,12 +17,9 @@ About
 ## 氏名
 
 翼(オフラインネーム)  
-細谷 真(エンジニアネーム)  
-大ダメージ(オンラインネーム) 
 
 ## リンク
 Twitter: [https://twitter.com/ggtmtmgg](https://twitter.com/ggtmtmgg)  
-VALU: [https://valu.is/awjecc](https://valu.is/awjecc)  
 ブログ: [https://note.mu/ggtmtmgg](https://note.mu/ggtmtmgg)  
 プレゼン資料: [https://speakerdeck.com/ggtmtmgg](https://speakerdeck.com/ggtmtmgg)  
 
